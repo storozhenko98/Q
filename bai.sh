@@ -33,3 +33,4 @@ fi
 sudo chmod 755 "$INSTALL_DIR/$BINARY_NAME"
 
 echo "Installation complete. You can now use '$BINARY_NAME' from anywhere in the terminal."
+echo "For help, use '$BINARY_NAME --help' or '$BINARY_NAME -help' or '$BINARY_NAME -h' or '$BINARY_NAME --h'"
